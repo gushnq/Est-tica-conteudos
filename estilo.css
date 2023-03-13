@@ -1,0 +1,82 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: rgb(235, 220, 222);
+}
+
+.header-topo{
+    background-image:url(imagens/Lidiaimagem.png);
+    background-size:40% 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 10em;
+    
+    
+    
+    
+}
+.header-topo img{
+    width:15em;
+    border-radius: 50%;
+    margin-left:41em;
+    
+  
+
+}
+.tratamentos{
+    display:flex;
+    justify-content: space-around;
+    padding-right: 28em;
+
+}
+@import url('https://fonts.cdnfonts.com/css/smile-of-the-ocean');
+ h1{
+    display:flex;
+    justify-content: space-around;
+    color: #b4918f;
+    font-family: 'Smile of the Ocean';
+    font-size:80px;
+    margin-right:100px;
+    
+    
+    
+ 
+}
+
+.tratamentos ul{
+    list-style-type: none;
+    letter-spacing: .05em;
+    line-height:40px;
+    margin-top:-26px;
+    margin-left:45.4em;
+
+   
+    
+    
+}
+.tratamentos li{
+    font-weight:bold;
+    color:#463938;
+    font-size:1.8em;
+    
+   
+}
+.fa-brands {
+    display: inline;
+    font-size:30px;
+    color: #8f6866;
+    margin-left:10.8em
+    
+}
+
+h2{
+    margin-left:40em;
+    
+}
+
+.fa-solid{
+    display: inline;
+    font-size:30px;
+    color: #8f6866;
+    margin-left:10.8em;
+}
